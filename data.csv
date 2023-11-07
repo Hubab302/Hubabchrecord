@@ -1,0 +1,12 @@
+Algorithm,ArraySize,ArrayType,Number of runs,Average time taken
+Selection sort,1000000,Random,10,647782237
+Algorithm,ArraySize,ArrayType,Number of runs,Average time taken
+Bubble sort,1000000,Random,10,2803928500
+Algorithm,ArraySize,ArrayType,Number of runs,Average time taken
+Insertion sort,1000000,Random,10,378206216
+Algorithm,ArraySize,ArrayType,Number of runs,Average time taken
+Bubble sort,1000000,sorted,10,1505
+Algorithm,ArraySize,ArrayType,Number of runs,Average time taken
+Insertion sort,1000000,sorted,10,2931
+Algorithm,ArraySize,ArrayType,Number of runs,Average time taken
+Selection sort,1000000,sorted,10,655913275
